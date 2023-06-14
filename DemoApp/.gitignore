@@ -1,7 +1,3 @@
-# Ignore mediated networks in the MAX Unity Plugin
-Assets/MaxSdk/Mediation
-Assets/MaxSdk/Mediation.meta
-
 # Jetbrain Rider Cache
 .idea/
 Assets/Plugins/Editor/JetBrains*
@@ -52,7 +48,6 @@ sysinfo.txt
 # Jar resolver and its generated libraries
 Assets/Plugins/Android/*[.jar, .aar]
 ProjectSettings/GvhProjectSettings.xml
-ProjectSettings/AndroidResolverDependencies.xml
 
 # OS generated
 .DS_Store
